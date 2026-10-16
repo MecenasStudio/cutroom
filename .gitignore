@@ -1,0 +1,9 @@
+# katalogi budowania
+build/
+build-*/
+out/
+dist/
+cmake-build-*/
+
+# pliki systemowe macOS
+.DS_Store
